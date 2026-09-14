@@ -1,0 +1,16 @@
+# 依赖与 Studio 生成的本地 SDK 副本（不随仓库分发）
+node_modules/
+sdk/
+
+# 本地缓存 / 日志 / 备份
+node_modules/.cache/
+*.log
+*.bak
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 构建产物：默认提交 dist/，让使用者 clone 后可直接导入。
+# 如果只想保留源码，取消下面一行的注释，并自行 npm run build。
+# dist/

@@ -1,0 +1,9 @@
+{
+  "id": "user.achievement-system",
+  "name": "成就系统 v1.0.4",
+  "description": "卡片式成就系统：全局变量条件成就 + 剧情触发成就，解锁时左上角弹出横幅并播放音效，统一收录进类原生风格的成就页面。",
+  "author": "opencode",
+  "version": "1.0.4",
+  "entry": "dist/index.js",
+  "sdkVersion": ">=1.9.9"
+}
